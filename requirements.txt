@@ -1,3 +1,4 @@
 fastapi==0.105.0
 uvicorn==0.24.0
 fastui==0.3.0
+python-googlesearch===1.1.1
