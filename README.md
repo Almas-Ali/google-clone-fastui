@@ -8,7 +8,13 @@ This project is a basic implementation of a Google clone using the [FastUI][fast
 
 ## Screenshot
 
-Adding soon...
+### Home Page
+
+![Home Page](./screenshot_01_home_page.png)
+
+### Search Results Page
+
+![Search Results Page](./screenshot_02_search_page.png)
 
 ## Credits
 
